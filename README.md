@@ -3,7 +3,7 @@
 
 ### User Stories
 
-The following is depicts the two-player connection board game known as Connect 4. 
+The following depicts the two-player connection board game known as Connect 4. 
 
 ### Approach Taken
 
